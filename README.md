@@ -49,6 +49,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#liscense">Liscense</a></li>
   </ol>
 </details>
 
@@ -136,8 +137,6 @@ Project Link: [https://github.com/Ramakrishnan-subbaiah/TipTime-Android](https:/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -149,6 +148,11 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 https://github.com/Ramakrishnan-subbaiah/TipTime-Android
+
+<!-- Liscense -->
+## Liscense
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
