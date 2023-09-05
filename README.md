@@ -9,21 +9,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- <!-- <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
 
-  <h3 align="center">Inventory Management System</h3>
+  <h3 align="center">TipTime - Android</h3>
 
   <p align="center">
-    An easy to use inventory management application to make device tracking a breeze.
+    A super handy tip calculator that makes figuring out how much to tip a breeze.
     <br />
-    <a href="https://github.com/isaiahmcnealy/Inventory-Management-System"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/isaiahmcnealy/TipTime-Android/blob/feature/update-readme/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/isaiahmcnealy/Inventory-Management-System/blob/develop/IMS_v1.0_gif.gif">View Demo</a>
+    <a href="https://github.com/isaiahmcnealy/TipTime-Android/blob/feature/update-readme/TipTimeGif.gif">View Demo</a>
     ·
-    <a href="https://github.com/isaiahmcnealy/Inventory-Management-System/issues/new">Report Bug</a>
+    <a href="https://github.com/isaiahmcnealy/TipTime-Android/issues/new">Report Bug</a>
     ·
     <a href="https://github.com/isaiahmcnealy/Inventory-Management-System/issues/">Request Feature</a>
   </p>
