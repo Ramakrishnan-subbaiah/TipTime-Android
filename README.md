@@ -67,7 +67,7 @@ This is an iOS mobile application made to improve the accuracy and effeciency of
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Walkthrough
-![](https://github.com/isaiahmcnealy/Inventory-Management-System/blob/develop/IMS_v1.0_gif.gif)
+![](https://github.com/isaiahmcnealy/TipTime-Android/blob/feature/update-readme/TipTimeGif.gif)
 
 
 ### Built With
