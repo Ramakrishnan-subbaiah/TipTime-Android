@@ -4,9 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
@@ -15,14 +13,14 @@
   <p align="center">
     A super handy tip calculator that makes figuring out how much to tip a breeze.
     <br />
-    <a href="https://github.com/isaiahmcnealy/TipTime-Android/blob/feature/update-readme/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Ramakrishnan-subbaiah/TipTime-Android/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/isaiahmcnealy/TipTime-Android/blob/feature/update-readme/TipTimeGif.gif">View Demo</a>
+    <a href="https://github.com/Ramakrishnan-subbaiah/TipTime-Android/TipTimeGif.gif">View Demo</a>
     ·
-    <a href="https://github.com/isaiahmcnealy/TipTime-Android/issues/new">Report Bug</a>
+    <a href="https://github.com/Ramakrishnan-subbaiah/TipTime-Android/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/isaiahmcnealy/Inventory-Management-System/issues/">Request Feature</a>
+    <a href="https://github.com/Ramakrishnan-subbaiah/TipTime-Android/issues">Request Feature</a>
   </p>
 </div>
 
@@ -58,19 +56,17 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) // this links to portfolio website project details page--> 
-This is an iOS mobile application made to improve the accuracy and effeciency of managing the inventory of devices used in a test lab. 
+Remove all the confusion in deciding how much to tip with this easy to use app. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Walkthrough
-![](https://github.com/isaiahmcnealy/TipTime-Android/blob/feature/update-readme/TipTimeGif.gif)
+![](https://github.com/Ramakrishnan-subbaiah/TipTime-Android/TipTimeGif.gif)
 
 
 ### Built With
 
-* [Swift](https://developer.apple.com/swift/)
-* [FireStore](https://firebase.google.com/)
+* [Kotlin](https://kotlinlang.org)
+* [Android Studio](https://developer.android.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -79,13 +75,13 @@ This is an iOS mobile application made to improve the accuracy and effeciency of
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* XCode
-* iOS device 
+* Android Studio
+* Android Emulator -OR- Android device
 
 ### Installation
 
@@ -93,20 +89,9 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/isaiahmcnealy/Inventory-Management-System.git
+   git clone https://github.com/Ramakrishnan-subbaiah/TipTime-Android.git
    ```
-2. Plug in iOS device and run project
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](http://isaiahmcnealy.com)_
+2. Plug in Android device and run project
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -115,27 +100,7 @@ _For more examples, please refer to the [Documentation](http://isaiahmcnealy.com
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add User Interface
-- [x] Add ability to add new devices
-- [x] Add ability to view all devices
-- [x] Add ability to checkout device
-- [x] Add ability to check in device
-- [ ] Add ability to remove device from inventory
-- [x] Update device details view to match inventory spreadsheet
-- [ ] Add ability to register
-- [ ] Add ability to sign in
-- [ ] Add ability to sign out
-- [x] Create GIF walkthrough video
-- [x] Update documentation and readme
-- [ ] Create project landing page
-- [ ] Add ability to upload csv file to update firestore db
-- [ ] Add ability to print CSV File of all devices
-- [ ] Support QR code scanning: Pull up device information
-- [ ] Support QR code scanning: Check in / Check out options on device details page
-- [ ] Check if device is already in firestore db
-
-
-See the [open issues](https://github.com/isaiahmcnealy/Inventory-Management-System.git) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Ramakrishnan-subbaiah/TipTime-Android/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -162,9 +127,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Isaiah McNealy - [@isaiah_mcnealy](https://twitter.com/isaiah_mcnealy) - imcnealy@icloud.com
-
-Project Link: [https://github.com/isaiahmcnealy/Inventory-Management-System](https://github.com/isaiahmcnealy/Inventory-Management-System)
+Project Link: [https://github.com/Ramakrishnan-subbaiah/TipTime-Android](https://github.com/Ramakrishnan-subbaiah/TipTime-Android)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -185,19 +148,17 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+https://github.com/Ramakrishnan-subbaiah/TipTime-Android
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[contributors-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[forks-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/network/members
-[stars-shield]: https://img.shields.io/github/stars/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[stars-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/stargazers
-[issues-shield]: https://img.shields.io/github/issues/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[issues-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/issues
-[license-shield]: https://img.shields.io/github/license/isaiahmcnealy/Inventory-Management-System.svg?style=for-the-badge
-[license-url]: https://github.com/isaiahmcnealy/Inventory-Management-System/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/isaiahmcnealy/
-[product-screenshot]: images/screenshot.png
+[contributors-shield]: https://img.shields.io/github/contributors/Ramakrishnan-subbaiah/TipTime-Android.svg?style=for-the-badge
+[contributors-url]: https://github.com/Ramakrishnan-subbaiah/TipTime-Android/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Ramakrishnan-subbaiah/TipTime-Android.svg?style=for-the-badge
+[forks-url]: https://github.com/Ramakrishnan-subbaiah/TipTime-Android/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ramakrishnan-subbaiah/TipTime-Android.svg?style=for-the-badge
+[stars-url]: https://github.com/Ramakrishnan-subbaiah/TipTime-Android/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ramakrishnan-subbaiah/TipTime-Android.svg?style=for-the-badge
+[issues-url]: https://github.com/Ramakrishnan-subbaiah/TipTime-Android/issues
+[license-shield]: https://img.shields.io/github/license/Ramakrishnan-subbaiah/TipTime-Android?style=for-the-badge
+[license-url]: https://github.com/Ramakrishnan-subbaiah/TipTime-Android/blob/master/LICENSE.txt
